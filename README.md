@@ -1,5 +1,5 @@
 # ImageCrypt
-## Steganographic tool to encrypt files and hide them in .jpeg pictures
+## Steganographic tool to encrypt files and hide them inside of .jpeg pictures
 ![image](https://github.com/user-attachments/assets/ebc345e9-72e4-42a6-9e04-4463004b095e)
 ## Usage
 ### Merging files
